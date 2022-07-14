@@ -1,0 +1,15 @@
+C:\Users\micae\Desktop\АНЯ\Geek Brains\Знакомство с языками программирования\Домашка\Homework_1\1_Homework\1_5\bin\Debug\net6.0\1_5.exe
+C:\Users\micae\Desktop\АНЯ\Geek Brains\Знакомство с языками программирования\Домашка\Homework_1\1_Homework\1_5\bin\Debug\net6.0\1_5.deps.json
+C:\Users\micae\Desktop\АНЯ\Geek Brains\Знакомство с языками программирования\Домашка\Homework_1\1_Homework\1_5\bin\Debug\net6.0\1_5.runtimeconfig.json
+C:\Users\micae\Desktop\АНЯ\Geek Brains\Знакомство с языками программирования\Домашка\Homework_1\1_Homework\1_5\bin\Debug\net6.0\1_5.dll
+C:\Users\micae\Desktop\АНЯ\Geek Brains\Знакомство с языками программирования\Домашка\Homework_1\1_Homework\1_5\bin\Debug\net6.0\1_5.pdb
+C:\Users\micae\Desktop\АНЯ\Geek Brains\Знакомство с языками программирования\Домашка\Homework_1\1_Homework\1_5\obj\Debug\net6.0\1_5.csproj.AssemblyReference.cache
+C:\Users\micae\Desktop\АНЯ\Geek Brains\Знакомство с языками программирования\Домашка\Homework_1\1_Homework\1_5\obj\Debug\net6.0\1_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micae\Desktop\АНЯ\Geek Brains\Знакомство с языками программирования\Домашка\Homework_1\1_Homework\1_5\obj\Debug\net6.0\1_5.AssemblyInfoInputs.cache
+C:\Users\micae\Desktop\АНЯ\Geek Brains\Знакомство с языками программирования\Домашка\Homework_1\1_Homework\1_5\obj\Debug\net6.0\1_5.AssemblyInfo.cs
+C:\Users\micae\Desktop\АНЯ\Geek Brains\Знакомство с языками программирования\Домашка\Homework_1\1_Homework\1_5\obj\Debug\net6.0\1_5.csproj.CoreCompileInputs.cache
+C:\Users\micae\Desktop\АНЯ\Geek Brains\Знакомство с языками программирования\Домашка\Homework_1\1_Homework\1_5\obj\Debug\net6.0\1_5.dll
+C:\Users\micae\Desktop\АНЯ\Geek Brains\Знакомство с языками программирования\Домашка\Homework_1\1_Homework\1_5\obj\Debug\net6.0\refint\1_5.dll
+C:\Users\micae\Desktop\АНЯ\Geek Brains\Знакомство с языками программирования\Домашка\Homework_1\1_Homework\1_5\obj\Debug\net6.0\1_5.pdb
+C:\Users\micae\Desktop\АНЯ\Geek Brains\Знакомство с языками программирования\Домашка\Homework_1\1_Homework\1_5\obj\Debug\net6.0\1_5.genruntimeconfig.cache
+C:\Users\micae\Desktop\АНЯ\Geek Brains\Знакомство с языками программирования\Домашка\Homework_1\1_Homework\1_5\obj\Debug\net6.0\ref\1_5.dll
